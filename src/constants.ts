@@ -8,8 +8,8 @@ import img4 from './img6.jpeg';
 
 export const SCHOOL_NAME = "Jamia Madinatul Uloom";
 export const CONTACT_INFO = {
-  phone1: "+919713987316",
-  phone2: "+918770550001",
+  phone1: "+918770550001",
+  phone2: "+919713987316",
   email: "jamiamadinatululoomrojroo@gmail.com",
   address: "Rojroo, Distt. Vidisha (Madhya Pradesh), 464221"
 };
