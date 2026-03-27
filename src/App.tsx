@@ -498,7 +498,7 @@ export default function App() {
                 <a href="#" className="w-10 h-10 bg-white/5 rounded-full flex items-center justify-center hover:bg-islamic-gold transition-colors">
                   <Twitter size={20} />
                 </a>
-                <a href="#" className="w-10 h-10 bg-white/5 rounded-full flex items-center justify-center hover:bg-islamic-gold transition-colors">
+                <a href="https://www.instagram.com/jamiamadinatululoomrojroo" className="w-10 h-10 bg-white/5 rounded-full flex items-center justify-center hover:bg-islamic-gold transition-colors">
                   <Instagram size={20} />
                 </a>
               </div>
